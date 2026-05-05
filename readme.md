@@ -7,3 +7,9 @@ This RC Primer* training session will provide a high level overview of Amazon AW
  
 
 * What is an RC Primer?: An RC Primer is a session that provide an introduction to concepts, systems, and tools. You can expect to leave "Primers" with an introductory-level understanding of the topic.
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
